@@ -1,0 +1,15 @@
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\bin\Debug\net6.0\TuringMashine.exe
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\bin\Debug\net6.0\TuringMashine.deps.json
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\bin\Debug\net6.0\TuringMashine.runtimeconfig.json
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\bin\Debug\net6.0\TuringMashine.dll
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\bin\Debug\net6.0\TuringMashine.pdb
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\TuringMashine.csproj.AssemblyReference.cache
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\TuringMashine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\TuringMashine.AssemblyInfoInputs.cache
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\TuringMashine.AssemblyInfo.cs
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\TuringMashine.csproj.CoreCompileInputs.cache
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\TuringMashine.dll
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\refint\TuringMashine.dll
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\TuringMashine.pdb
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\TuringMashine.genruntimeconfig.cache
+C:\Users\osiiu\source\repos\TuringMashine\TuringMashine\obj\Debug\net6.0\ref\TuringMashine.dll
